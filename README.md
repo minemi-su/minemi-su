@@ -16,13 +16,13 @@
 <br>
 
  <a href="https://www.linkedin.com/in/minemu/" target="_blank">
-   <img align="left" alt="Su Mine | Linkedin" width="24px" src="https://github.com/minemi-su/minemi-su/blob/master/Linkedin.svg" />
+   <img align="left" alt="Su Mine | Linkedin" width="24px" src="https://github.com/minemi-su/minemi-su/main/Linkedin.svg" />
   </a>
   <a href="mailto:minemisu@gmail.com" target="_blank">
-    <img align="left" alt="Su Mine | Gmail" width="26px" src="https://github.com/minemi-su/minemi-su/blob/master/Gmail.svg" />
+    <img align="left" alt="Su Mine | Gmail" width="26px" src="https://github.com/minemi-su/minemi-su/main/Gmail.svg" />
   </a>
   <a href="https://www.instagram.com/minemisu_" target="_blank">
-    <img align="left" alt="Su Mine| Instagram" width="24px" src="https://github.com/minemi-su/minemi-su/blob/master/Instagram.svg"  />
+    <img align="left" alt="Su Mine| Instagram" width="24px" src="https://github.com/minemi-su/minemi-su/main/Instagram.svg"  />
   </a>
   <a href="https://dev.to/minemisu" target="_blank">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mine's dev profile" height="30" width="30">
