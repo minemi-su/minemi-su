@@ -1,8 +1,11 @@
-### Hello and welcome, 
+### Hello and welcome, <br>
 
 my github profile is currently serving learning purposes, I will upload my past projects.
+<br>
 
+<br>
 
+<br>
 
 **✨ currently using** <br>
 
@@ -13,9 +16,12 @@ my github profile is currently serving learning purposes, I will upload my past 
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
 <code><a href="https://www.sqlite.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
+
 <br>
 
+<br>
 
+<br>
 
 
 **🔭 Looking forward to learn:** <br>
@@ -27,9 +33,14 @@ my github profile is currently serving learning purposes, I will upload my past 
 <code><a href="https://analytics.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></a></code>
 <br>
 
+<br>
 
 
-**💬 below you can find ways to reach me
+<br>
+
+**💬 below you can find ways to reach me <br>
+
+<br>
  <a href="https://www.linkedin.com/in/minemu/" target="_blank">
    <img align="left" alt="Su Mine | Linkedin" width="24px" src="https://github.com/minemi-su/minemi-su/blob/main/Linkedin.svg" />
   </a>
@@ -42,6 +53,12 @@ my github profile is currently serving learning purposes, I will upload my past 
   <a href="https://dev.to/minemisu" target="_blank">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mine's dev profile" height="30" width="30">
 </a>
+
+
+<br>
+<br>
+
+<br>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=minemi-su alt=minemi-su> </p>
 
