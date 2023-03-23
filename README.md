@@ -19,7 +19,7 @@
    <img align="left" alt="Su Mine | Linkedin" width="24px" src="https://github.com/minemi-su/minemi-su/main/Linkedin.svg" />
   </a>
   <a href="mailto:minemisu@gmail.com" target="_blank">
-    <img align="left" alt="Su Mine | Gmail" width="26px" src="https://github.com/minemi-su/minemi-su/main/Gmail.svg" />
+    <img align="left" alt="Su Mine | Gmail" width="26px" src="https://raw.githubusercontent.com/minemi-su/minemi-su/main/Gmail.svg" />
   </a>
   <a href="https://www.instagram.com/minemisu_" target="_blank">
     <img align="left" alt="Su Mine| Instagram" width="24px" src="https://github.com/minemi-su/minemi-su/main/Instagram.svg"  />
