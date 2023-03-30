@@ -1,8 +1,8 @@
 ### Hello and welcome, <br>
 
-my github profile is currently serving learning purposes, I will upload my past projects.
+you can find latest projects under repositories, <br>
 <br>
-
+meanwhile I'm writing some DAGs <br>
 <br>
 
 <br>
