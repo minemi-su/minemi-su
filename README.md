@@ -1,6 +1,6 @@
-### Hello and welcome, <br>
+### Hello and welcome, I'm Su Mine <br>
 
-you can find latest projects under repositories, <br>
+you can find my latest projects under repositories, <br>
 <br>
 meanwhile I'm writing some DAGs <br>
 <br>
@@ -36,7 +36,11 @@ meanwhile I'm writing some DAGs <br>
 
 <br>
 
+<a href="https://github.com/minemi-su">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=minemi-su&theme=midnight-purple&show_icons=true" />
+</a>
 
+<br/>
 <br>
 
 **💬 below you can find ways to reach me <br>
