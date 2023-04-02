@@ -1,5 +1,6 @@
-### Hello and welcome, I'm Su Mine <br>
-
+### Hello,<br>
+I'm Su Mine <br>
+<br>
 you can find my latest projects under repositories, <br>
 <br>
 meanwhile I'm writing some DAGs <br>
